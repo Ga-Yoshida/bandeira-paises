@@ -1,3 +1,2 @@
-https://github.com/Ga-Yoshida/bandeira-paises.git
-
+https://ga-yoshida.github.io/bandeira-paises/
 link para visualizar em page
